@@ -1,0 +1,12 @@
+**** Top Three Articles by Page View ****
+"Candidate is jerk, alleges rival" -- 338647 views
+"Bears love berries, alleges bear" -- 253801 views
+"Bad things gone, say good people" -- 170098 views
+
+top three authors:
+('Ursula La Multa', 507594L). Ursula La Multa with 507594 views
+('Rudolf von Treppenwitz', 423457L). Rudolf von Treppenwitz with 423457 views
+('Anonymous Contributor', 170098L). Anonymous Contributor with 170098 views
+
+days with more than 1% errors:
+July 17, 2016 -- 2.3% errors
